@@ -136,9 +136,7 @@ const Layout = () => {
 
             <footer className="container-fluid  mt-5">
                 <div className="row">
-                    <div className="col-md-4">
-                        <p>Copyright &copy; 2024 by Tushar Chandak</p>
-                    </div>
+                    
                     <div className="col-md-4">
                     </div>
                     <div className="col-md-4 d-flex justify-content-end">
