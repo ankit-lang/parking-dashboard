@@ -139,20 +139,7 @@ const Layout = () => {
                     
                     <div className="col-md-4">
                     </div>
-                    <div className="col-md-4 d-flex justify-content-end">
-                        <a href="https://www.instagram.com/tusharchandak29/profilecard/?igsh=dHU4Ymtpdm4xcm03" className="hover:text-blue">
-                        <Instagram />
-                        </a>
-                        <a href="https://github.com/Tushar292004">
-                        <Github />
-                        </a>
-                        <a href="https://www.linkedin.com/in/tushar-chandak-b2b943257/">
-                        <Linkedin />
-                        </a>
-                        <a href="mailto:tusharchandak2004@gmail.com">
-                        <Mail />
-                        </a>
-                    </div>
+                   
                 </div>
             </footer>
         </div>
